@@ -1,7 +1,5 @@
 # BIG DATA
 
----------------
-
 ## 2.2. Big data
 
 Avec ton groupe, vous avez entendu parler d'un concept qui marche bien nommé le Big Data. Vous vous êtes chauffés pour vous lancer dedans et proposer des prestations de conseil facturées à des prix indécents. Grâce à vos super compétences en réalisation de Landing Pages, vous avez déjà votre premier client : une entreprise de Growth Hacking. Cette dernière a obtenu une liste de plusieurs centaines de comptes Twitter qu'ils voudraient analyser.
